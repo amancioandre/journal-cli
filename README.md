@@ -7,7 +7,7 @@ This project follows - _somewhat_ - the guidelines for journals mentioned by [Le
 **Manual**
 
 ```bash
-$ git clone <this repo>
+$ git clone git@github.com:amancioandre/journal-cli.git
 $ cd journal-cli
 $ python3 setup.py install
 ```
