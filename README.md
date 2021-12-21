@@ -30,9 +30,9 @@ Options:
 
   --no-conf Creates an empty configuration file
 
-### Open
+### Create
 
-Opens, or create a new week entry, for the current year with your default editor.
+Create a new week entry, or open an existing, for the current year with your VSCode as a default editor.
 
 ```bash
 $ journal open
