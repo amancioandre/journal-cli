@@ -38,5 +38,10 @@ Opens, or create a new week entry, for the current year with your default editor
 $ journal open
 ```
 
+# Todo
+### Tags
+
+Lists tags and entries.
+
 [me]: https://github.com/amancioandre
 [leportella]: https://github.com/leportella
